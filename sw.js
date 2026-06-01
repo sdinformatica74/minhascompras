@@ -1,4 +1,4 @@
-const CACHE_NAME = 'minhacompra-v10';
+const CACHE_NAME = 'minhacompra-v11';
 
 const ASSETS = [
   '/minhascompras/index.html',
